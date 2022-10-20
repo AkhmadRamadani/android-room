@@ -52,4 +52,7 @@ dependencies {
     annotationProcessor "android.arch.lifecycle:compiler:$rootProject.archLifecycleVersion"
     annotationProcessor 'androidx.room:room-compiler:2.3.0'
 
+
+    implementation "androidx.activity:activity:1.6.0-alpha05"
+
 }
